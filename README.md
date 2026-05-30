@@ -81,6 +81,4 @@ Look at the camera to unlock the screen. Press `Q` to quit.
 - If face matching fails often, try re-registering your face in better lighting.
 - If `face_recognition` cannot install, make sure the underlying `dlib` dependency is available for your platform.
 
-## License
 
-No license has been specified yet. Add one if you plan to share or reuse this project.
